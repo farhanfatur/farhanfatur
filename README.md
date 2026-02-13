@@ -1,6 +1,6 @@
 # Hi, I'm Farhan 👋
 
-Backend & Microservices Engineer focused on building production-grade systems that handle real transactions, real users, and real-world scale.
+Backend, Fullstack, & Microservices Engineer focused on building production-grade systems that handle real transactions, real users, and real-world scale.
 
 🇮🇩 Based in Indonesia | 🌍 Open to Remote Opportunities
 
