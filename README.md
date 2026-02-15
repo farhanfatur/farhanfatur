@@ -10,7 +10,7 @@ Backend, Fullstack, & Microservices Engineer focused on building production-grad
 
 I have 5+ years of experience building and maintaining backend systems across enterprise platforms, event systems, analytics dashboards, subscription services, and mobile-integrated applications.
 
-My core focus is backend engineering using Golang and Node.js with microservices architecture, event-driven communication, and payment integrations.
+My core focus is backend engineering using Golang, PHP, Java, .NET, and Node.js with microservices architecture, event-driven communication, and payment integrations.
 
 I don’t just build CRUD APIs — I design data flows, stabilize legacy systems, integrate third-party services, and ensure systems survive real production workloads.
 
